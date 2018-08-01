@@ -1,9 +1,1 @@
-ten
-twenty
-thirty
-<<<<<<< HEAD
-forty
-=======
-forty one
-seven
->>>>>>> seven
+one
